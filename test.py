@@ -18,6 +18,6 @@
 
 # s= {22,65,34,78,22,45}
 # print (s)
-# print("hello")
+print("hello")
  
 
