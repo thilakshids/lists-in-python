@@ -17,7 +17,7 @@
 # print(tup[2])
 
 # s= {22,65,34,78,22,45}
-# print (s)
-print("hello")
+# # print (s)
+# print("hello")
  
 
