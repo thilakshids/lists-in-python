@@ -14,10 +14,10 @@
 # tup=(21,44,56,732)
 
 
-# print(tup[2])
+print(tup[2])
 
-# s= {22,65,34,78,22,45}
-# # print (s)
-# print("hello")
+s= {22,65,34,78,22,45}
+# print (s)
+print("hello")
  
 
