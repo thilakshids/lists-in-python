@@ -9,6 +9,6 @@
 
 # val =[2, 'thilakshi', 2.5]
 # print (val)
-print ('thilakshi')
-val=[3,'school',2.3]
+# print ('thilakshi')
+# val=[3,'school',2.3]
 
