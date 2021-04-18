@@ -13,3 +13,6 @@
 # # # val=[3,'school',2.3]
 # print ('thilakshi')
 
+val =[3, 'I can do this' , 3.6]
+print (val)
+
