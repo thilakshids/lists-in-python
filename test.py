@@ -1,6 +1,6 @@
 
 # num= 2
-# print (num)
+print (num)
  
 # #   list in python
 # num=[12,45,34,33,77]
