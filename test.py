@@ -1,6 +1,6 @@
 
 # num= 2
-print (num)
+# print (num)
  
 # #   list in python
 # num=[12,45,34,33,77]
@@ -13,6 +13,6 @@ print (num)
 # # # val=[3,'school',2.3]
 # print ('thilakshi')
 
-val =[3, 'I can do this' , 3.6]
-print (val)
+# val =[3, 'I can do this' , 3.6]
+# print (val)
 
