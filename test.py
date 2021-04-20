@@ -15,4 +15,6 @@
 
 # val =[3, 'I can do this' , 3.6]
 # print (val)
-
+#  x = int(1)
+ y=int(2.8)
+ z=int("3")
