@@ -4,6 +4,6 @@
 # b = 5.6
 # print(b,"is type of", type(b))
 
-x=5
-y=10
+# x=5
+# y=10
 
